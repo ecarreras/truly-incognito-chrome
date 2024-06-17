@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Custom Chrome
+Comment=Launch Google Chrome with a temporary profile
+Exec=/path/to/custom-chrome-launcher/randomn-chrome.sh
+Icon=/path/to/custom-chrome-launcher/random-chrome.png
+Terminal=false
+Type=Application
+Categories=Network;WebBrowser;
+StartupWMClass=custom-chrome
