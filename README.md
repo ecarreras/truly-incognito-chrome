@@ -21,8 +21,8 @@ user agent to enhance privacy while maintaining compatibility with different Chr
 
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/custom-chrome-launcher.git
-   cd custom-chrome-launcher
+   git clone https://github.com/ecarreras/truly-incognito-chrome.git
+   cd truly-incognito-chrome
    chmod +x install.sh
    ./install.sh
    ```
