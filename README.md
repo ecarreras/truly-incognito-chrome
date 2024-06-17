@@ -29,3 +29,18 @@ user agent to enhance privacy while maintaining compatibility with different Chr
 ```shell
 ./launch_chrome.sh
 ```
+
+## Script details
+
+The script performs the following actions:
+
+1. Creates a temporary user data directory.
+2. Randomly modifies one of the version numbers in the Chrome user agent.
+3. Launches Google Chrome with various options to disable features that contribute to fingerprinting.
+4. Deletes the temporary user data directory when Chrome is closed.
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
