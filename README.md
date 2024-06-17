@@ -23,12 +23,9 @@ user agent to enhance privacy while maintaining compatibility with different Chr
    ```sh
    git clone https://github.com/yourusername/custom-chrome-launcher.git
    cd custom-chrome-launcher
-
-## Usage
-
-```shell
-./random-chrome.sh
-```
+   chmod +x install.sh
+   ./install.sh
+   ```
 
 ## Script details
 
